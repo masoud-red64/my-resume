@@ -53,7 +53,7 @@ const works = [
     title: "شبکه اجتماعی",
     text: "HTML&CSS",
     img: "./images/portfolio/social-media-html&css.jpg",
-    href: "https://github.com/masoudred6464/Social-media.git",
+    href: "https://instagram-7f03.onrender.com",
   },
   {
     id: 9,

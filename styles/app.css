@@ -1159,11 +1159,10 @@ a {
 }
 
 .container-loader {
-  position: relative;
+  position: absolute;
   display: flex;
   justify-content: center;
   align-items: center;
-  position: absolute;
   top: 0;
   bottom: 0;
   left: 0;
@@ -1177,6 +1176,9 @@ a {
 }
 .wrapper-loader {
   transform: scale(0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .loader {
   width: 50px;
