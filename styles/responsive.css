@@ -1,0 +1,150 @@
+@media (max-width: 1400px) {
+}
+
+/* md */
+
+@media (max-width: 1200px) {
+  .personal-information__body-right {
+    width: 60rem;
+  }
+}
+
+/* lg */
+
+@media (max-width: 992px) {
+  .main__title-name {
+    font-size: 5rem;
+  }
+
+  .personal-information__body-right {
+    width: 50rem;
+  }
+
+  .about__introduce {
+    margin-top: 0;
+  }
+}
+
+/* xl */
+
+@media (max-width: 768px) {
+  .main__title-name {
+    font-size: 4rem;
+  }
+  .personal-information__body-right {
+    height: 11rem;
+  }
+
+  .describes__content {
+    flex-direction: column;
+  }
+  .describes__right {
+    width: 15rem;
+    height: 10rem;
+    margin: 0 auto 1rem auto;
+  }
+  .describes__left {
+    margin-right: 0;
+  }
+  .describes__left-body-name {
+    margin: 0.5rem;
+    font-size: 1.5rem;
+  }
+}
+
+/* xxl */
+
+@media (max-width: 576px) {
+  .main__title-name {
+    font-size: 2rem;
+  }
+  .main__title-work {
+    font-size: 2rem;
+  }
+
+  .page-nav {
+    font-size: 1.2rem;
+  }
+
+  .contact__title,
+  .portfolio__work-title,
+  .about-content__title {
+    font-size: 2rem;
+  }
+
+  .contact__information-desc-title {
+    font-size: 1.3rem;
+  }
+  .contact__information-icon {
+    font-size: 1.5rem;
+  }
+
+  .contact__information-list {
+    padding: 1.5rem;
+  }
+
+  .contact__top-center {
+    left: auto;
+    right: 1rem;
+  }
+
+  .personal-information__body {
+    flex-direction: column;
+    min-height: 28rem;
+  }
+  .personal-information__body-right {
+    width: 10rem;
+  }
+  .personal-information__body-left {
+    min-height: 18rem;
+  }
+
+  .personal-information__footer-list {
+    gap: 2rem;
+  }
+  .experiences__title,
+  .about__introduce-video-title,
+  .my-favorite__title,
+  .describes__title,
+  .skills__tilte {
+    text-align: center;
+  }
+  .experiences__information-tilte {
+    font-size: 1.5rem;
+  }
+  .about__bottom-center {
+    left: 1rem;
+  }
+  .portfolio__bottom-center {
+    right: 1rem;
+    left: auto;
+  }
+}
+
+@media (max-width: 400px) {
+  .personal-information__body-right {
+    margin-bottom: 2rem;
+    width: 8rem;
+  }
+  .personal-information__footer-list {
+    margin-top: 10rem;
+  }
+  .describes__left-body-desc {
+    font-weight: normal;
+  }
+  .describes__left-header {
+    display: none;
+  }
+}
+@media (max-width: 300px) {
+  .personal-information__body-right {
+    margin-bottom: 2rem;
+    width: 8rem;
+  }
+  .personal-information__footer-list {
+    margin-top: 15rem;
+  }
+  .describes__right {
+    display: none;
+  }
+}
