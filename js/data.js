@@ -4,14 +4,14 @@ const works = [
     title: "آب و هوا",
     text: "جاوااسکریپت",
     img: "./images/portfolio/wheather-js.jpg",
-    href: "https://weather-app-c2ss.onrender.com",
+    href: "https://weather-app-o782.onrender.com",
   },
   {
     id: 2,
     title: "کافی شاپ",
     text: "HTML&CSS",
     img: "./images/portfolio/coffee-shop-html&css.jpg",
-    href: "https://coffee-website-mmm5.onrender.com",
+    href: "https://coffee-shop-3wkm.onrender.com",
   },
   {
     id: 3,
@@ -32,7 +32,7 @@ const works = [
     title: "تبدیل عکس به پی دی اف",
     text: "جاوااسکریپت",
     img: "./images/portfolio/img-to-pdf-js.jpg",
-    href: "#https://img-to-pdf.onrender.com",
+    href: "https://img-to-pdf.onrender.com",
   },
   {
     id: 6,
@@ -53,7 +53,7 @@ const works = [
     title: "شبکه اجتماعی",
     text: "HTML&CSS",
     img: "./images/portfolio/social-media-html&css.jpg",
-    href: "https://social-media-b9o3.onrender.com",
+    href: "https://github.com/masoudred6464/Social-media.git",
   },
   {
     id: 9,
