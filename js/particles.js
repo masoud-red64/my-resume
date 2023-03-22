@@ -195,7 +195,7 @@ particlesJS("particles-js", {
       },
     },
     color: {
-      value: '#d94c48',
+      value: ['#d94c48','#eae328','#25ca7f','#db9a21','#bb68c8','#00a3e1'],
       animation: {
         h: {
           count: 0,
@@ -338,10 +338,7 @@ particlesJS("particles-js", {
         enable: false,
         minimumValue: 1,
       },
-      value: {
-        min: 0.1,
-        max: 1,
-      },
+      value: 10,
       animation: {
         count: 0,
         enable: true,
