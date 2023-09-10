@@ -62,6 +62,27 @@ const works = [
     img: "./images/portfolio/quiz-app-js.jpg",
     href: "https://quiz-app-5d6r.onrender.com",
   },
+  {
+    id: 10,
+    title: "دیجی کالا",
+    text: "ریکت",
+    img: "./images/portfolio/digikala-react.png",
+    href: "https://quiz-app-5d6r.onrender.com",
+  },
+  {
+    id: 11,
+    title: "ویرگول",
+    text: "ریکت",
+    img: "./images/portfolio/virgool-react.png",
+    href: "https://quiz-app-5d6r.onrender.com",
+  },
+  {
+    id: 12,
+    title: "اینستاگرام",
+    text: "ریکت",
+    img: "./images/portfolio/instagram-react.png",
+    href: "https://quiz-app-5d6r.onrender.com",
+  },
 ];
 
 export { works };
