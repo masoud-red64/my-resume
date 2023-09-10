@@ -62,6 +62,27 @@ const works = [
     img: "./images/portfolio/quiz-app-js.jpg",
     href: "https://quiz-app-5d6r.onrender.com",
   },
+  {
+    id: 10,
+    title: "دیجی کالا",
+    text: "ریکت",
+    img: "/images/portfolio/digikala-react.png",
+    href: "https://my-digikala.netlify.app/",
+  },
+  {
+    id: 11,
+    title: "ویرگول",
+    text: "ریکت",
+    img: "/images/portfolio/virgool-react.png",
+    href: "https://virgol.netlify.app/",
+  },
+  {
+    id: 12,
+    title: "اینستاگرام",
+    text: "ریکت",
+    img: "/images/portfolio/instagram-react.png",
+    href: "https://my-instagram-64.netlify.app/",
+  },
 ];
 
 export { works };

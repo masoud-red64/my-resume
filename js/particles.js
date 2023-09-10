@@ -230,7 +230,7 @@ particlesJS("particles-js", {
         value: 90,
       },
       attract: {
-        distance: 00,
+        distance: 0,
         enable: false,
         rotate: {
           x: 3000,

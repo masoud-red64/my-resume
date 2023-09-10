@@ -199,7 +199,7 @@ window.addEventListener("load", () => {
 
   //portfolio
   portfolioWorkExampleContainer.innerHTML = "";
-  works.forEach((work) => {
+  works.reverse().forEach((work) => {
     portfolioWorkExampleContainer.insertAdjacentHTML(
       "beforeend",
       `
